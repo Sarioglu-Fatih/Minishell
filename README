@@ -13,5 +13,3 @@ Ce projet a pour but de reproduire partiellement un shell avec les fonctions sui
 		getenv, tcsetattr, tcgetattr, tgetent, tgetflag,
 		tgetnum, tgetstr, tgoto, tputs
 
-
-Plus d'info dans subject.
